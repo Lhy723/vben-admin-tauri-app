@@ -54,7 +54,7 @@ catalog:
   '@typescript-eslint/parser': ^8.18.2
   '@vee-validate/zod': ^4.15.0
   '@vite-pwa/vitepress': ^0.5.3
-  '@vitejs/plugin-vue': ^5.2.1
+  '@vitejs/plugin-vue': ^6.0.1
   '@vitejs/plugin-vue-jsx': ^4.1.1
   '@vue/reactivity': ^3.5.13
   '@vue/shared': ^3.5.13
