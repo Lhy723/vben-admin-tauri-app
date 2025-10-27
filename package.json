@@ -57,7 +57,7 @@
     "@changesets/changelog-github": "catalog:",
     "@changesets/cli": "catalog:",
     "@playwright/test": "catalog:",
-    "@tauri-apps/cli": "^2.7.1",
+    "@tauri-apps/cli": "^2.9.1",
     "@types/node": "catalog:",
     "@vben/commitlint-config": "workspace:*",
     "@vben/eslint-config": "workspace:*",
